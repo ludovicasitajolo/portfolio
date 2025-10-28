@@ -1,0 +1,3 @@
+remote_theme: CloudCannon/vonge-jekyll-bookshop-template/issues
+plugins:
+- jekyll-remote-theme
