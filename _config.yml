@@ -1,11 +1,4 @@
 title: Ludovica Sitajolo Portfolio
-remote_theme: CloudCannon/vonge-jekyll-bookshop-template
-plugins:
-- jekyll-remote-theme
-
-
-
-title: Ludovica Sitajolo Portfolio
 description: Portfolio Ludovia Sitajolo
 url: https://ludovicasitajolo.github.io/portfolio   # <-- aggiorna
 baseurl: ""                                 # se usi org o project pages, imposta se serve
