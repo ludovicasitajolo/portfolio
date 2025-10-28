@@ -1,5 +1,12 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
-Ecchice!
+
+# Portfolio
+
+Benvenuto! Scegli una categoria:
+
+- [Installazioni](/categorie/installazioni/)
+- [Fotografie](/categorie/fotografie/)
+- [Pittura](/categorie/pittura/)
