@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://ludovicasitajolo.github.io/portfolio'
-baseurl: 'https://ludovicasitajolo.github.io/portfolio'
+baseurl: 'portfolio'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
