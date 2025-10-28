@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://ludovicasitajolo.github.io'
-baseurl: ''
+url: 'https://ludovicasitajolo.github.io/portfolio'
+baseurl: 'https://ludovicasitajolo.github.io/portfolio'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
